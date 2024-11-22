@@ -17,11 +17,7 @@ python src/shell_emulator.py
   shell_emulator.py
   commands.py
   test_commands.py
-config.xml
-start_script.sh
-virtual_files.tar
-```
-## Запуск тестов
-```bash
-python -m unittest src/test_commands.py
+config.csv
+session_log.csv
+virtual_files.zip
 ```
